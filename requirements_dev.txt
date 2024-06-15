@@ -10,8 +10,6 @@ ensure
 flake8
 mypy
 pytest
-types-pandas
-types-ensure
 tox
 tox-gh-actions
 
