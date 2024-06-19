@@ -1,5 +1,7 @@
 ensure==1.0.2
 py-youtube==1.1.7
+pymongo>=4.7.3
+pandas>=1.4.0
 
 [testing]
 pytest>=7.1.3
