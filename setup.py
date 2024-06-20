@@ -6,9 +6,9 @@ with open('README.md', 'r', encoding='utf-8') as f:
    
 
 __version__ = "0.0.4"
-REPO_NAME = "mongodbconnectorpkg"
+REPO_NAME = "Mongodb-connector-pypi"
 PKG_NAME= "databaseautomation"
-AUTHOR_USER_NAME = "Nithin"
+AUTHOR_USER_NAME = "Nithin8919"
 AUTHOR_EMAIL = "cherukumallinithin@gmail.com"
 
 setup(
